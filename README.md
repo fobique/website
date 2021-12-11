@@ -1,2 +1,2 @@
 # website
-Простой html для демонстрации работы haproxy и keepalived
+simple html for haproxy&keepalived demonstration
